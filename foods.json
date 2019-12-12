@@ -1,0 +1,19 @@
+{"nodes": [{"id":"九段下", "group":1},
+           {"id":"日本橋", "group":1},
+           {"id":"日比谷", "group":4},
+           {"id":"新御茶ノ水", "group":4},
+           {"id":"大手町", "group":6},
+           {"id":"三越前", "group":3},
+           {"id":"神保町", "group":3},
+           {"id":"淡路町", "group":9},
+           {"id":"東京", "group":9}],
+ 
+ 
+ "links": [{"source":"九段下", "target":"大手町","value":3.7444},
+           {"source":"日本橋", "target":"大手町","value":3.4402},
+           {"source":"日比谷", "target":"大手町","value":3.7444},
+           {"source":"新御茶ノ水", "target":"大手町","value":3.4402},
+           {"source":"三越前", "target":"大手町","value":3.3869},
+           {"source":"神保町", "target":"大手町","value":3.5055},
+           {"source":"淡路町", "target":"大手町","value":3.3149},
+           {"source":"東京", "target":"大手町","value":4.6307}]}
